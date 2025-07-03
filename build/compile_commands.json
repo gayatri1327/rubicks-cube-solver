@@ -1,0 +1,52 @@
+[
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\Model\\RubiksCube.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/Model/RubiksCube.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\main.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\main.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/main.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube3dArray.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\Model\\RubiksCube3dArray.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/Model/RubiksCube3dArray.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube1dArray.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\Model\\RubiksCube1dArray.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/Model/RubiksCube1dArray.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCubeBitboard.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\Model\\RubiksCubeBitboard.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/Model/RubiksCubeBitboard.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\NibbleArray.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\PatternDatabases\\NibbleArray.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/PatternDatabases/NibbleArray.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\PatternDatabase.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\PatternDatabases\\PatternDatabase.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerPatternDatabase.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\PatternDatabases\\CornerPatternDatabase.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerDBMaker.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\PatternDatabases\\CornerDBMaker.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.cpp"
+},
+{
+  "directory": "E:/dsa/rubiks-cube-solver-main/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\math.cpp.obj -c E:\\dsa\\rubiks-cube-solver-main\\PatternDatabases\\math.cpp",
+  "file": "E:/dsa/rubiks-cube-solver-main/PatternDatabases/math.cpp"
+}
+]
